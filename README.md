@@ -1,4 +1,4 @@
-#My Name is Sajid >> README.md
-echo #My Name is Sajid >> README.md
-echo #My Name is Sajid
+#Second attempt
 #My Name is Sajid
+#hello
+#Sajid this side
